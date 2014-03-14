@@ -133,3 +133,7 @@ This page is intended to allow you to add and edit blogging categories. Fix this
 bug by writing cucumber tests that fail when this bug is present and pass when
 you can successfully edit existing categories and create new categories.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/maany/saas2hw1/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
